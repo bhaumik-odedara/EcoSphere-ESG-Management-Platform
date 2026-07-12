@@ -3,7 +3,7 @@
 
 A modern, AI-driven ESG (Environmental, Social, Governance) management platform built with Next.js and TypeScript.
 
-## website Link - https://trae1iqyuo12-fprafbnxi-devs-projects-54682bc7.vercel.app/dashboard.
+## website Link - https://trae1iqyuo12.vercel.app.
 
 ## Features
 
